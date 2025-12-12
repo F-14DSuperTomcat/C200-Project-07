@@ -8,6 +8,7 @@ TagManager:
   - pitcher
   - ball
   - CatcherZone
+  - HitZone
   layers:
   - Default
   - TransparentFX
