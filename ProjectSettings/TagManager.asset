@@ -9,6 +9,9 @@ TagManager:
   - ball
   - CatcherZone
   - HitZone
+  - PullZone
+  - OppoZone
+  - ScoreZone
   layers:
   - Default
   - TransparentFX
